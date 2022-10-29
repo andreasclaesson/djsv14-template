@@ -1,0 +1,19 @@
+{
+  "name": "djsv14-template",
+  "version": "1.0.0",
+  "description": "DiscordJS v14 Template made for usage with slash commands.",
+  "main": "src/index.js",
+  "author": "VenixDeveloper | andreas@trio.host",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.5",
+    "cat-loggr": "^1.2.2",
+    "discord.js": "^14.6.0",
+    "glob": "^7.2.0",
+    "utf-8-validate": "^5.0.7"
+  }
+}
